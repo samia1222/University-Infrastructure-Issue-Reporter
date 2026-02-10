@@ -1,0 +1,35 @@
+# Database credentials and config
+db_connection.php
+
+# Environment variables
+.env
+
+# Uploaded files
+uploads/
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+
+# PHP
+vendor/
+composer.lock
+
+# Development notes (optional - remove if you want to include Notes.txt)
+Notes.txt

@@ -1,0 +1,3 @@
+- inside the admin panel dont forget to include the link return u back to the admin panael in the report page also see if it is possible to add home to let him choose while do a report or go to the dashboard or his admin panel in the nav bar.
+- include messages after each operations.
+- 
